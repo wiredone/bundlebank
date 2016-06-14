@@ -1,0 +1,14 @@
+module.exports = [
+  { "artist": "Johnny Cash",
+    "title": "All My Friends Are Cowboys",
+    "price": 9.99
+  },
+  { "artist": "Nirvana",
+    "title": "Nevermind",
+    "price": 12.99
+  },
+  { "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "price": 15.00
+  }
+]
